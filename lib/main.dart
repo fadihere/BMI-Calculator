@@ -1,5 +1,5 @@
-// ignore_for_file: use_key_in_widget_constructors, prefer_const_constructors
-
+// ignore_for_file: use_key_in_widget_constructors, prefer_const_constructors, unused_import
+import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:flutter/material.dart';
 import 'input_page.dart';
 
@@ -18,4 +18,3 @@ class BMICalculator extends StatelessWidget {
     );
   }
 }
-//TODO : Hello
